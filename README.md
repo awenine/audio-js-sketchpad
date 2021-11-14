@@ -15,7 +15,7 @@
 - how do effects work?
 - volume and panning
 - recording of audio
-- microphone input
+- get microphone input
 - microphone / sample recording?
 - can midi be implemented / written / read? (or other audio protocols)
 - pipe audio material from other sites (for example, freesound)?
