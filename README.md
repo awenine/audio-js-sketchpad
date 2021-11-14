@@ -3,7 +3,7 @@
 - callbacks from sound to DOM
 - synthesising tones (sine wave)
 - sequencing / scheduling audio using audio context
-- overlaying sequences using at different tempos
+- overlaying sequences using different tempos
 - create basic sequences/rhythms
 - randomise sounds played
 
